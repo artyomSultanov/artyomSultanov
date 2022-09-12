@@ -17,7 +17,7 @@ This is where I keep my book list
 | <img src="eloquent-javascript.jpg" alt="Eloquent JavaScript" width="80"> | Выразительный JavaScript | **Completed** |
 | <img src="full-javascript.jpg" alt="Full JavaScript" width="80"> | JavaScript. Полное руководство | **In Progress** |
 | <img src="pro-javascript.webp" alt="JavaScript for Professionals" width="80"> | JavaScript для профессионалов | **Planned** |
-| <img src="you-dont-know-javascript.webp" alt="You dont know JavaScript" width="80"> | Вы не знаете JS | **Planned** |
+| <img src="you-dont-know-javascript.webp" alt="You dont know JavaScript" width="80"> | Вы не знаете JavaScript. Асинхронная обработка и оптимизация | **Planned** |
 #### <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30"/>&nbsp; TypeScript
 | Cover | Title | Status |
 | :---: | --- | :---: |
