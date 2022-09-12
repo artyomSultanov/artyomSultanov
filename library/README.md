@@ -39,12 +39,13 @@
 | <img src="grokking-algorithms.webp" alt="Grokking algorithms" width="80"> | Грокаем алгоритмы | **Completed** |
 | <img src="cormen.webp" alt="Cormen" width="80"> | Алгоритмы. Построение и анализ | **Planned** |
 
+---
 
 ### Other
 | Cover | Title | Status |
 | :---: | --- | :---: |
 | <img src="clean-code.webp" alt="Clean Code" width="80"> | Чистый код | **Planned** |
-| <img src="clean-architecture.webp" alt="Clean Architecture" width="80"> | Чистая архитектура | **Planned** | 
+| <img src="clean-architecture.jpg" alt="Clean Architecture" width="80"> | Чистая архитектура | **Planned** | 
 
 
 
