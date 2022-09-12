@@ -27,7 +27,7 @@
 ---
 
 ### Library:
-[📚 Link to README.md](library/readme.md)
+[📚 Link to README.md](library/README.md)
 
 
 ---
