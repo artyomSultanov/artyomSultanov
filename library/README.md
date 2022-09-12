@@ -1,12 +1,12 @@
 ## My library
 
 This is where I keep my book list
-- [Programming](https://github.com/artyomSultanov/artyomSultanov/edit/main/library/README.md#programming)
-  - [JavaScript](https://github.com/artyomSultanov/artyomSultanov/edit/main/library/README.md#-javascript)
-  - [TypeScript](https://github.com/artyomSultanov/artyomSultanov/edit/main/library/README.md#-typescript)
-  - [React](https://github.com/artyomSultanov/artyomSultanov/edit/main/library/README.md#-react)
-  - [Express](https://github.com/artyomSultanov/artyomSultanov/edit/main/library/README.md#-express)
-- [Algorithms and Data Structures](https://github.com/artyomSultanov/artyomSultanov/edit/main/library/README.md#algorithms%and%data%structeres)
+- [Programming](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#programming)
+  - [JavaScript](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-javascript)
+  - [TypeScript](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-typescript)
+  - [React](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-react)
+  - [Express](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-express)
+- [Algorithms and Data Structures](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#algorithms%and%data%structeres)
 
 ---
 
