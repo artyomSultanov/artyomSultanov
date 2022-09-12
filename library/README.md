@@ -2,11 +2,11 @@
 
 This is where I keep my book list
 - [Programming](#programming)
-  - [JavaScript](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-javascript)
-  - [TypeScript](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-typescript)
-  - [React](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-react)
-  - [Express](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-express)
-- [Algorithms and Data Structures](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#algorithms-and-data-structures)
+  - [JavaScript](#-javascript)
+  - [TypeScript](#-typescript)
+  - [React](#-react)
+  - [Express](#-express)
+- [Algorithms and Data Structures](#algorithms-and-data-structures)
 
 ---
 
