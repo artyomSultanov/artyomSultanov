@@ -33,8 +33,8 @@
 ---
 
 ### Hobbies:
-- ✨ Read manga and novel
-- 🏓 Play table tennis
 - 🔍 Learn something new
 - 💬 Share experiences in chats
 - 💻 Solve problems in codewars
+- ✨ Read manga and novel
+- 🏓 Play table tennis
