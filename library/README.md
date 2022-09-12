@@ -1,7 +1,7 @@
 ## My library
 
 This is where I keep my book list
-- [Programming](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#programming)
+- [Programming](#programming)
   - [JavaScript](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-javascript)
   - [TypeScript](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-typescript)
   - [React](https://github.com/artyomSultanov/artyomSultanov/blob/main/library/README.md#-react)
