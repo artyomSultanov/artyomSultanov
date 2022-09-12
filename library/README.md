@@ -6,6 +6,7 @@
   - [React](#-react)
   - [Express](#-express)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [Other](#other)
 
 ---
 
