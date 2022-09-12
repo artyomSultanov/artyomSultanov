@@ -1,35 +1,30 @@
-### My library
+## My library
 
 This is where I keep my book list
 
 ---
 
 ### Programming
-
-#### JavaScript
+#### <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30"/>&nbsp; JavaScript
 | Cover | Title | Status |
 | :---: | --- | :---: |
 | <img src="eloquent-javascript.jpg" alt="Eloquent JavaScript" width="80"> | Выразительный JavaScript | **Completed** |
 | <img src="full-javascript.jpg" alt="Full JavaScript" width="80"> | JavaScript. Полное руководство | **In Progress** |
 | <img src="pro-javascript.webp" alt="JavaScript for Professionals" width="80"> | JavaScript для профессионалов | **To To** |
 | <img src="you-dont-know-javascript.webp" alt="You dont know JavaScript" width="80"> | Вы не знаете JS | **To Do** |
-
-#### TypeScript
+#### <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30"/>&nbsp; TypeScript
 | Cover | Title | Status |
 | :---: | --- | :---: |
 | <img src="fast-typescript.jpg" alt="TypeScript Quickly" width="80"> | TypeScript быстро | **Completed** |
 | <img src="pro-typescript.jpeg" alt="Professional TypeScript" width="80"> | Профессиональный TypeScript | **To Do** |
-
-
-#### React
+#### <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30"/>&nbsp; React
 | Cover | Title | Status |
 | :---: | --- | :---: |
 | <img src="modern-react.jpg" alt="React modern patterns" width="80"> | React. Современные шаблоны разработки приложений | **Completed** |
-
-#### Express
+#### <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="30"/>&nbsp; Express
 | Cover | Title | Status |
 | :---: | --- | :---: |
-| <img src="node-express.jpg" alt="WebDev with Express" width="80"> | Веб-разработка с применением Node и Express | **Completed** |
+| <img src="node-express.jpg" alt="WebDev with Express" width="30"> | Веб-разработка с применением Node и Express | **Completed** |
 
 ---
 
