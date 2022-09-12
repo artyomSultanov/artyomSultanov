@@ -26,7 +26,7 @@
 
 ---
 
-### Library:
+### Reading List:
 [📚 Link to README.md](library/README.md)
 
 
