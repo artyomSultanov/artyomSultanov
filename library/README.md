@@ -12,7 +12,7 @@ This is where I keep my book list
 | <img src="eloquent-javascript.jpg" alt="Eloquent JavaScript" width="80"> | Выразительный JavaScript | **Completed** |
 | <img src="full-javascript.jpg" alt="Full JavaScript" width="80"> | JavaScript. Полное руководство | **In Progress** |
 | <img src="pro-javascript.webp" alt="JavaScript for Professionals" width="80"> | JavaScript для профессионалов | **To To** |
-| <img src="you-dont-know-javascript.jpg" alt="You dont know JavaScript" width="80"> | Вы не знаете JS | **To Do** |
+| <img src="you-dont-know-javascript.webp" alt="You dont know JavaScript" width="80"> | Вы не знаете JS | **To Do** |
 
 #### TypeScript
 | Cover | Title | Status |
