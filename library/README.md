@@ -1,6 +1,5 @@
-## My library
+## My Reading List
 
-This is where I keep my book list
 - [Programming](#programming)
   - [JavaScript](#-javascript)
   - [TypeScript](#-typescript)
