@@ -10,13 +10,13 @@ This is where I keep my book list
 | :---: | --- | :---: |
 | <img src="eloquent-javascript.jpg" alt="Eloquent JavaScript" width="80"> | Выразительный JavaScript | **Completed** |
 | <img src="full-javascript.jpg" alt="Full JavaScript" width="80"> | JavaScript. Полное руководство | **In Progress** |
-| <img src="pro-javascript.webp" alt="JavaScript for Professionals" width="80"> | JavaScript для профессионалов | **To To** |
-| <img src="you-dont-know-javascript.webp" alt="You dont know JavaScript" width="80"> | Вы не знаете JS | **To Do** |
+| <img src="pro-javascript.webp" alt="JavaScript for Professionals" width="80"> | JavaScript для профессионалов | **Planned** |
+| <img src="you-dont-know-javascript.webp" alt="You dont know JavaScript" width="80"> | Вы не знаете JS | **Planned** |
 #### <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30"/>&nbsp; TypeScript
 | Cover | Title | Status |
 | :---: | --- | :---: |
 | <img src="fast-typescript.jpg" alt="TypeScript Quickly" width="80"> | TypeScript быстро | **Completed** |
-| <img src="pro-typescript.jpeg" alt="Professional TypeScript" width="80"> | Профессиональный TypeScript | **To Do** |
+| <img src="pro-typescript.jpeg" alt="Professional TypeScript" width="80"> | Профессиональный TypeScript | **Planned** |
 #### <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30"/>&nbsp; React
 | Cover | Title | Status |
 | :---: | --- | :---: |
@@ -32,4 +32,4 @@ This is where I keep my book list
 | Cover | Title | Status |
 | :---: | --- | :---: |
 | <img src="grokking-algorithms.webp" alt="Grokking algorithms" width="80"> | Грокаем алгоритмы | **Completed** |
-| <img src="cormen.webp" alt="Cormen" width="80"> | Алгоритмы. Построение и анализ | **To Do** |
+| <img src="cormen.webp" alt="Cormen" width="80"> | Алгоритмы. Построение и анализ | **Planned** |
