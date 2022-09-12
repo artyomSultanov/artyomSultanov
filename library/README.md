@@ -24,7 +24,7 @@ This is where I keep my book list
 #### <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="30"/>&nbsp; Express
 | Cover | Title | Status |
 | :---: | --- | :---: |
-| <img src="node-express.jpg" alt="WebDev with Express" width="30"> | Веб-разработка с применением Node и Express | **Completed** |
+| <img src="node-express.jpg" alt="WebDev with Express" width="80"> | Веб-разработка с применением Node и Express | **Completed** |
 
 ---
 
