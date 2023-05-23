@@ -1,5 +1,5 @@
 ### Привет 👋
-<b>Я студент, учусь на направлении (01.03.01) Математики в УрФУ. Также я занимаюсь frontend-разработкой.</b>
+<b>Занимаюсь frontend-разработкой.</b>
 #### Связаться со мной:
 <a href="https://vk.com/artyom_sultanov">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg"  title="vk" alt="vk" width="30"/>
@@ -10,7 +10,7 @@
 
 ---
 
-### Чем я пользуюсь:
+### Чем пользуюсь:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
